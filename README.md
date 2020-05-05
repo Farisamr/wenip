@@ -1,6 +1,6 @@
 #welcome 
 import os
-print ("clear")
+    print ("clear")
 import socket 
 import sys
 
